@@ -8,4 +8,4 @@ phpinfo();
 
 ?>
 ```
-![Container](a.PNG)
+![Container](a.png)
