@@ -8,4 +8,7 @@ phpinfo();
 
 ?>
 ```
+
+- Chạy xampp và chạy file có chứa nội dung vừa nhập: 
+
 ![Container](a.png)
